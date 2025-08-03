@@ -83,7 +83,7 @@ header.shadow {
 .logo span {
     font-size: 1.61rem;
     font-weight: 600;
-    color: rgb(37, 26, 201);
+    color: var(--main-color);
 }
 
 .navbar {
